@@ -16,3 +16,8 @@
 ## Time: 7:00 PM - 5:00 AM  (Good Night)
 
 ![ajay-dhangar-github-io-digital-clock-night](https://user-images.githubusercontent.com/99037494/227576070-a2f2e8f6-40bd-4663-abef-1ff0290aa1cd.png)
+
+### Connect with me:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdtanvirahamedshanto)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtanvirahamedshanto/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mdtanvirahamedshanto/)
