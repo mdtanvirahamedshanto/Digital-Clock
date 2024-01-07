@@ -1,4 +1,4 @@
-# Digital Clock By Md Tanvir Ahamed Shanto
+# Digital Clock By Md Tanvir Ahamed Shanto Organization
 
 ## Time: 6:00 AM - 9:00 AM (Good Morning)
 
